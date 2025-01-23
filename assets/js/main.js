@@ -2,7 +2,7 @@
 (function() {
   "use strict";
 
-  /**
+  /*
    * Header toggle
    */
   const headerToggleBtn = document.querySelector('.header-toggle');
